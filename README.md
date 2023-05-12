@@ -1,1 +1,2 @@
-# ASP
+# Algoritmi i strukture podataka / Algorithms and data structures
+This repository contains various algorithms and data structures implemented in C++. The goal of this repository is to provide examples of commonly used algorithms and data structures to help programmers develop their problem-solving and coding skills. The implementations were created as part of a course on Algorithms and Data Structures taught at the university level.
